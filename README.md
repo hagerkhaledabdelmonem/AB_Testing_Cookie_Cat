@@ -1,5 +1,5 @@
 # AB_Testing_Cookie_Cat
-It will be covering the **"Statistics + R"** training content using **Cookie Cats** dataset.
+It will be covering the **"Statistics + R"** using **Cookie Cats** dataset.
 
 ## Description: 
 Cookie Cats is a hugely popular mobile puzzle game developed by Tactile Entertainment. It's a classic "connect three"-style puzzle game where the player must connect tiles of the same color to clear the board and win the level. It also features singing cats.
